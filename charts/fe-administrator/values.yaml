@@ -70,12 +70,12 @@ service:
 image:
   # default registry name
   registry: docker.io
-  repository: czertainly
-  name: czertainly-frontend-administrator
+  repository: iffijii
+  name: fe-administrator
   tag: 2.13.0
   # the digest to be used instead of the tag
   digest: ""
-  pullPolicy: IfNotPresent
+  pullPolicy: Always
   # array of secret names
   pullSecrets: []
   # default security context
