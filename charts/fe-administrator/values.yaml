@@ -72,7 +72,7 @@ image:
   registry: docker.io
   repository: iffijii
   name: fe-administrator
-  tag: 2.13.1
+  tag: 2.13.0
   # the digest to be used instead of the tag
   digest: ""
   pullPolicy: Always
