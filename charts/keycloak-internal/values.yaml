@@ -160,10 +160,10 @@ image:
 theme:
   image:
     # default registry name
-  registry: docker.io
-  repository: iffijii
-  name: fe-administrator
-  tag: 2.13.1
+    registry: docker.io
+    repository: czertainly
+    name: czertainly-keycloak-theme
+    tag: 0.1.2
     # the digest to be used instead of the tag
     digest: ""
     pullPolicy: IfNotPresent
